@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HouseSellingAppUtama</string>
+    <string name="back_button">Kembali</string>
+    <string name="view_on_map">View on map</string>
+    <string name="property_details">Property details</string>
+    <string name="description">Description</string>
+</resources>
